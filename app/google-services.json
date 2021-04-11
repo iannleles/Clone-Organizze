@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "99504838288",
+    "project_id": "financastoday-538e5",
+    "storage_bucket": "financastoday-538e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99504838288:android:75d6a58af7be4a5c056a15",
+        "android_client_info": {
+          "package_name": "com.cursoandroid.financastoday"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99504838288-bh65ucpd87781ck7kfss9chh04k51ava.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cursoandroid.financastoday",
+            "certificate_hash": "4f047ca2e4e2ffec2a45738367157b4a2234376a"
+          }
+        },
+        {
+          "client_id": "99504838288-9muf3ilck2pl352arkn6p0e1mvlm206v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ_5KzzY9aiq042jNhFerx_94P_cCEWPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99504838288-9muf3ilck2pl352arkn6p0e1mvlm206v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
